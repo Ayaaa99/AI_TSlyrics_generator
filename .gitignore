@@ -31,10 +31,6 @@ best_model.pt
 *.ckpt
 *.safetensors
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
-
 # IDEs
 .vscode/
 .idea/
